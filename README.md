@@ -1,4 +1,4 @@
-# Hi, I'm Dafenxz0
+# Hi, I'm Dafenx
 
 I build small, practical open-source tools around developer workflows, repository health, automation, and local-first utilities.
 
