@@ -10,7 +10,6 @@
   <a href="https://github.com/Dafenxz0/statecraft-skill"><img src="https://img.shields.io/badge/Statecraft-recovery_design-A9A39B?style=for-the-badge&labelColor=0A0D12&color=A9A39B&logo=github&logoColor=0A0D12"></a>
 </p>
 
-<sub>black / silver / bone palette inspired by the profile avatar • comic-noir direction • lightweight motion via SVG widgets</sub>
 </div>
 
 Featured Work
