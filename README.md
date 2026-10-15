@@ -23,11 +23,6 @@ Featured Work
 <div align="center">
 
 		
-PREMiSE
-<sub>Tracks evidence, versions and dependencies, then revalidates right before the side effect.</sub>	SkillProof
-<sub>Benchmarks whether a skill genuinely improves quality, regressions, latency and token use.</sub>	Statecraft
-<sub>Turns happy-path UI into software that survives stale, partial, offline and conflicting state.</sub>
-
 
 </div>
 
