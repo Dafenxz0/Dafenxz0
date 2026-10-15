@@ -77,8 +77,9 @@ Activity
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dafenxz0&bg_color=0D1117&color=E879F9&line=22D3EE&point=F97316&area=true&hide_border=true&custom_title=Contribution%20timeline" alt="Contribution graph">
 </p>
-
+<div align="center">
 Toolbox
+</div>
 <div align="center">
 
 <img height="22" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -97,8 +98,9 @@ Toolbox
 <img height="22" src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square">
 
 </div>
-
+<div align="center">
 Principles
+  </div>
 <p align="center">
   <img src="https://img.shields.io/badge/01-measure%20the%20claim-8B5CF6?style=for-the-badge">
   <img src="https://img.shields.io/badge/02-keep%20the%20evidence-EC4899?style=for-the-badge">
