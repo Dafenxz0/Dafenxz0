@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="120" viewBox="0 0 1400 120" role="img" aria-label="Project deck">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="35%" stop-color="#ec4899"/>
+      <stop offset="70%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="120" fill="#0d1117"/>
+  <rect x="80" y="82" width="1240" height="3" rx="2" fill="url(#line)"/>
+  <text x="80" y="52" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900">PROJECT DECK</text>
+  <text x="1315" y="52" text-anchor="end" fill="#94a3b8" font-family="JetBrains Mono,Consolas,monospace" font-size="16">selected work / live repos</text>
+</svg>
