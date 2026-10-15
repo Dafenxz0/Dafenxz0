@@ -1,6 +1,6 @@
 <div align="center">
 
-Dafenx
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6E7BFF&center=true&vCenter=true&width=760&lines=AI+agent+systems+%E2%80%A2+open-source+engineering;Evidence-first+tools+%E2%80%A2+resilient+software;I+build+the+uncomfortable+parts+that+make+systems+trustworthy" alt="Typing intro" />
 
 <p>
