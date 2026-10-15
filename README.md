@@ -1,162 +1,102 @@
 <div align="center">
 
-# Dafenx
+Dafenx
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6E7BFF&center=true&vCenter=true&width=760&lines=AI+agent+systems+%E2%80%A2+open-source+engineering;Evidence-first+tools+%E2%80%A2+resilient+software;I+build+the+uncomfortable+parts+that+make+systems+trustworthy" alt="Typing intro" />
 
-### I build tools that make AI agents easier to trust.
+<p>
+  <a href="https://github.com/Dafenxz0/premise-protocol"><img src="https://img.shields.io/badge/PREMiSE-change_control-7567ff?style=flat-square"></a>
+  <a href="https://github.com/Dafenxz0/skillproof"><img src="https://img.shields.io/badge/SkillProof-agent_evaluation-238636?style=flat-square"></a>
+  <a href="https://github.com/Dafenxz0/statecraft-skill"><img src="https://img.shields.io/badge/Statecraft-resilient_UI-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/Dafenxz0?tab=repositories"><img src="https://img.shields.io/badge/Open_source-building_in_public-21262d?style=flat-square&logo=github"></a>
+</p>
 
-I work where agents meet reality: proving whether a skill helps, keeping
-decisions coherent while sources change, and designing software that recovers
-cleanly when the happy path ends.
-
-[![PREMiSE](https://img.shields.io/badge/PREMiSE-change_control-7567ff?style=for-the-badge)](https://github.com/Dafenxz0/premise-protocol)
-[![SkillProof](https://img.shields.io/badge/SkillProof-prove_your_skill-238636?style=for-the-badge)](https://github.com/Dafenxz0/skillproof)
-[![Statecraft](https://img.shields.io/badge/Statecraft-design_recovery-1f6feb?style=for-the-badge)](https://github.com/Dafenxz0/statecraft-skill)
-[![Open source](https://img.shields.io/badge/Open_source-contributor-21262d?style=for-the-badge&logo=github)](https://github.com/Dafenxz0?tab=repositories)
-
-<sub>Agent evaluation · mutable-state safety · resilient interfaces · emulation · developer tooling</sub>
-
+<sub>Agent evaluation · mutable-state safety · emulation · developer tooling · resilient interfaces</sub>
 </div>
 
----
+Featured work
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Selected projects
+PREMiSE
+Change control for AI agents.
+Tracks the evidence behind a decision, revalidates at the action boundary and fails closed when reality changed.
+TypeScript Protocol Runtime MCP
+→ Explore
+</td>
+<td width="33%" valign="top">
 
-### [SkillProof](https://github.com/Dafenxz0/skillproof)
+SkillProof
+Prove an Agent Skill works.
+Compares baselines, forced skill use and real model runs with quality, regressions, tokens, latency and reviewable evidence.
+CLI Evaluation Agents Benchmarks
+→ Explore
+</td>
+<td width="33%" valign="top">
 
-> **Prove your Agent Skill works before you publish it.**
+Statecraft
+Design beyond the happy path.
+A practical Agent Skill for loading, stale, offline, partial, conflict, permission, retry and recovery states.
+UX Agent Skill Recovery Testing
+→ Explore
+</td>
+</tr>
+</table>
 
-A dependency-free CLI and companion Agent Skill for comparing clean baselines,
-automatic availability and forced skill use across real models. It records
-quality, regressions, tokens, cost and latency, then produces reviewable JSON,
-HTML and repository evidence.
-
-[![Latest SkillProof benchmark evidence](https://raw.githubusercontent.com/Dafenxz0/skillproof/main/benchmarks/self/latest/card.svg)](https://github.com/Dafenxz0/skillproof/blob/main/benchmarks/self/latest/report.html)
+<p align="center">
+  <a href="https://github.com/Dafenxz0/healthcheck"><img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dafenxz0&repo=healthcheck&theme=transparent&hide_border=true&border_radius=12"></a>
+  <a href="https://github.com/Dafenxz0/pando"><img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dafenxz0&repo=pando&theme=transparent&hide_border=true&border_radius=12"></a>
+  <a href="https://github.com/Dafenxz0/forgeboard"><img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dafenxz0&repo=forgeboard&theme=transparent&hide_border=true&border_radius=12"></a>
+</p>
 
 <details>
-<summary><strong>Why it exists</strong></summary>
+<summary><b>More projects</b></summary>
 <br>
 
-Anyone can publish a `SKILL.md` and say that it helps. SkillProof asks whether
-the result actually improved, whether the improvement survives another model,
-what it costs and whether a later edit caused a regression.
+Project	Focus
+codex-harness-hub	Harness discovery and safe Codex integration
+codex-maintainer-skills	Compact open-source maintainer workflows for coding agents
+riceme-readme-generator	README tooling and presentation
+semver-scout	Lightweight release/version tooling
+
 
 </details>
 
-### [PREMiSE](https://github.com/Dafenxz0/premise-protocol)
-
-> **Change control for AI agents working against a world that keeps changing.**
-
-<a href="https://github.com/Dafenxz0/premise-protocol">
-  <img src="./assets/premise-profile-card.png" alt="PREMiSE memory validity protocol and guarded action visual" width="100%">
-</a>
-
-PREMiSE is a coherence protocol and TypeScript runtime for decisions that depend
-on mutable external state. It records the evidence and version behind a decision,
-revalidates at the action boundary, and fails closed when the source changed or
-cannot be checked with enough authority.
-
-| Ordinary memory | PREMiSE |
-| --- | --- |
-| Can preserve `config@v41` perfectly after the source moved to `config@v42`. | Carries source identity, versions and dependencies to a final guard before the side effect. |
-| Remembers an observation. | Checks whether the observation is still usable. |
-| May discover the change after wasted work or an unsafe attempt. | Revalidates, blocks or lets the connector perform its own conditional write. |
-
-<p>
-  <a href="https://github.com/Dafenxz0/premise-protocol"><img src="https://img.shields.io/badge/Repository-PREMiSE-7567ff?style=flat-square&logo=github" alt="PREMiSE repository"></a>
-  <a href="https://github.com/Dafenxz0/premise-protocol/blob/main/README.md#what-is-measured"><img src="https://img.shields.io/badge/Evidence-measured_not_promised-1f6feb?style=flat-square" alt="PREMiSE evidence"></a>
-  <a href="https://github.com/Dafenxz0/premise-protocol/blob/main/docs/agent-installation.md"><img src="https://img.shields.io/badge/Agents-Codex_%C2%B7_Claude_%C2%B7_MCP-238636?style=flat-square" alt="PREMiSE agent installation"></a>
-</p>
-
-### [Statecraft](https://github.com/Dafenxz0/statecraft-skill)
-
-> **The happy path is a demo. Recovery is the product.**
-
-An Agent Skill for building complete user interfaces around loading, empty,
-offline, stale, partial, conflict, permission, retry and success states. It
-helps turn a polished screen into something people can rely on when reality
-gets messy.
-
-```text
-request → waiting → partial data → failure → recovery → continuity
-```
-
----
-
-## More tools
-
-| Project | What it is for |
-| --- | --- |
-| [healthcheck](https://github.com/Dafenxz0/healthcheck) | Audit repository health, contribution activity, release readiness and maintainer hygiene from a small CLI. |
-| [codex-maintainer-skills](https://github.com/Dafenxz0/codex-maintainer-skills) | Compact workflows that help coding agents contribute to open source with tighter scope and better evidence. |
-| [Pando](https://github.com/Dafenxz0/pando) | Multi-repository coding-agent orchestration through an explicit SPEC → PLAN → TEST → IMPLEMENT → REVIEW → PR pipeline. |
-| [Forgeboard](https://github.com/Dafenxz0/forgeboard) | A local-first operations dashboard for open-source maintainers. |
-
----
-
-## Open-source systems work
-
-| Area | What I contribute |
-| --- | --- |
-| [SharpEmu](https://github.com/par274/sharpemu/pulls?q=is%3Apr+author%3ADafenxz0) | Focused C# and Vulkan work around resource lifetime, scheduling boundaries, pipeline validation, diagnostics and regression safety. |
-| [KytyPS5](https://github.com/KytyPS5/KytyPS5/pulls?q=is%3Apr+author%3ADafenxz0) | Portable Vulkan tests, CMake/CTest integration and fixes that behave consistently across GPU drivers. |
-
-I prefer changes that are small enough to review, important enough to matter,
-and backed by a test, a trace or a concrete explanation.
-
----
-
-## Working principles
-
-```text
-Measure the claim.       Keep the evidence.
-Model the change.        Guard the action.
-Design the failure.      Make recovery obvious.
-```
-
-- Practical tools over impressive demos.
-- Reproducible evidence over inflated claims.
-- Explicit boundaries over hidden magic.
-- Real failure cases over happy-path screenshots.
-
-## Toolbox
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="C plus plus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Codex" src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white">
-</p>
-
----
-
-## Activity
-
+Open-source pulse
 <div align="center">
 
-[![Dafenx GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dafenxz0&theme=github-compact&hide_border=true&area=true&custom_title=Shipping%20with%20evidence)](https://github.com/Dafenxz0)
-
-<a href="https://github.com/Dafenxz0?tab=followers">
-  <img alt="Follow Dafenx on GitHub" src="https://img.shields.io/github/followers/Dafenxz0?style=for-the-badge&logo=github&label=Follow">
-</a>
-<a href="https://github.com/Dafenxz0?tab=repositories">
-  <img alt="Explore Dafenx repositories" src="https://img.shields.io/badge/Repositories-Explore-21262d?style=for-the-badge&logo=github">
-</a>
-
+<a href="https://github.com/pulls?q=is%3Apr+author%3ADafenxz0+-user%3ADafenxz0"><img src="https://img.shields.io/github/issues-search?query=type%3Apr%20author%3ADafenxz0%20-user%3ADafenxz0&label=external%20PRs&style=for-the-badge&color=6E7BFF"></a>
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ADafenxz0+-user%3ADafenxz0"><img src="https://img.shields.io/github/issues-search?query=type%3Apr%20is%3Amerged%20author%3ADafenxz0%20-user%3ADafenxz0&label=merged&style=for-the-badge&color=238636"></a>
+<a href="https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3ADafenxz0+-user%3ADafenxz0"><img src="https://img.shields.io/github/issues-search?query=type%3Apr%20is%3Aopen%20author%3ADafenxz0%20-user%3ADafenxz0&label=open&style=for-the-badge&color=1f6feb"></a>
 </div>
 
----
+Project	Dynamic activity	What I work on
+SharpEmu		C#, Vulkan, GPU/runtime behavior, validation, regressions
+KytyPS5		C++, CMake/CTest, Vulkan regression coverage
+Piscina		Documentation and maintenance fixes
+Spicetify extensions		UI fixes and extension behavior
+
+
+<sub>Counts above are live GitHub search widgets, not hard-coded numbers.</sub>
+GitHub signal
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dafenxz0&show_icons=true&show=prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub stats">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dafenxz0&theme=transparent&hide_border=true&border_radius=12" alt="GitHub streak">
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dafenxz0&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph">
+
+Toolbox
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,cs,cpp,dotnet,git,github,githubactions,vscode,linux,docker&perline=12" alt="Toolbox" />
+
+
+AI agents · MCP · benchmarking · Vulkan · systems · CI · failure recovery
+</div>
 
 <div align="center">
 
-### Building in public. Testing the uncomfortable cases.
-
-[Explore PREMiSE](https://github.com/Dafenxz0/premise-protocol) ·
-[Try SkillProof](https://github.com/Dafenxz0/skillproof) ·
-[Read Statecraft](https://github.com/Dafenxz0/statecraft-skill) ·
-[See every project](https://github.com/Dafenxz0?tab=repositories)
-
+Measure the claim. Model the change. Guard the action.
+PREMiSE · SkillProof · Statecraft · All repositories
 </div>
