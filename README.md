@@ -11,8 +11,9 @@ I build tools that make AI agents easier to trust.
 </p>
 
 </div>
-
+<div align="center">
 Featured Work
+  </div>
 <p align="center">
   <a href="https://github.com/Dafenxz0/premise-protocol">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dafenxz0&repo=premise-protocol&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="PREMiSE">
@@ -30,8 +31,9 @@ Featured Work
   <img src="https://img.shields.io/badge/SkillProof-agent%20skill%20evaluation-EC4899?style=flat-square">
   <img src="https://img.shields.io/badge/Statecraft-recoverable%20UI%20states-14B8A6?style=flat-square">
 </p>
-
+<div align="center">
 More Projects
+  </div>
 <p align="center">
   <a href="https://github.com/Dafenxz0/healthcheck">
     <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dafenxz0&repo=healthcheck&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9" alt="healthcheck">
@@ -43,8 +45,9 @@ More Projects
     <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dafenxz0&repo=pando&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9" alt="pando">
   </a>
 </p>
-
+<div align="center">
 Open Source Pulse
+   </div>
 <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3ADafenxz0+-user%3ADafenxz0">
     <img src="https://img.shields.io/github/issues-search?query=type%3Apr%20author%3ADafenxz0%20-user%3ADafenxz0&label=external%20PRs&style=for-the-badge&labelColor=111827&color=8B5CF6" alt="External PRs">
@@ -62,8 +65,9 @@ Open Source Pulse
   <a href="https://github.com/KytyPS5/KytyPS5/pulls?q=is%3Apr+author%3ADafenxz0"><img src="https://img.shields.io/github/issues-search?query=type%3Apr%20author%3ADafenxz0%20repo%3AKytyPS5%2FKytyPS5&label=KytyPS5&style=flat-square&labelColor=111827&color=0EA5E9"></a>
   <a href="https://github.com/rxri/spicetify-extensions/pulls?q=is%3Apr+author%3ADafenxz0"><img src="https://img.shields.io/github/issues-search?query=type%3Apr%20author%3ADafenxz0%20repo%3Arxri%2Fspicetify-extensions&label=Spicetify&style=flat-square&labelColor=111827&color=22C55E"></a>
 </p>
-
+<div align="center">
 Activity
+   </div>
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dafenxz0&theme=radical" alt="Profile activity">
 </p>
