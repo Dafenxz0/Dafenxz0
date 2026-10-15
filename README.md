@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/noir-header.svg" width="100%" alt="Dafenx comic-noir header" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=F5F1EA&center=true&vCenter=true&width=860&lines=AI+agent+systems+%E2%80%A2+evidence-first+engineering;resilient+interfaces+%E2%80%A2+open-source+systems+work;measure+the+claim+%E2%80%A2+guard+the+action+%E2%80%A2+design+the+failure" alt="Typing intro" />
 
@@ -14,17 +14,6 @@
 </div>
 
 Featured Work
-<p align="center">
-  <a href="https://github.com/Dafenxz0/premise-protocol">
-    <img src="./assets/featured-premise.svg" width="32%" alt="PREMiSE featured card">
-  </a>
-  <a href="https://github.com/Dafenxz0/skillproof">
-    <img src="./assets/featured-skillproof.svg" width="32%" alt="SkillProof featured card">
-  </a>
-  <a href="https://github.com/Dafenxz0/statecraft-skill">
-    <img src="./assets/featured-statecraft.svg" width="32%" alt="Statecraft featured card">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Dafenxz0/premise-protocol"><img src="https://img.shields.io/badge/Open-PREMiSE-F5F1EA?style=flat-square&labelColor=0A0D12&color=F5F1EA&logo=github&logoColor=0A0D12"></a>
@@ -193,20 +182,4 @@ Agents & Delivery
 
 </div>
 
-Principles
-<p align="center">
-  <img src="./assets/principles.svg" width="100%" alt="Engineering principles">
-</p>
-
-<div align="center">
-
-<a href="https://github.com/Dafenxz0?tab=repositories">
-  <img src="./assets/footer.svg" width="100%" alt="Explore Dafenx repositories">
-</a>
-
-
-PREMiSE  · 
-SkillProof  · 
-Statecraft  · 
-All repositories
 </div>
