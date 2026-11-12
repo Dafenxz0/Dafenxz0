@@ -1,21 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="236" viewBox="0 0 420 236" role="img" aria-label="PREMiSE: coherence protocol and runtime for decisions over mutable state.">
-<rect x="1" y="1" width="418" height="234" rx="14" fill="#0B1210" stroke="#2A3933" stroke-width="2"/>
-<path d="M20 44H400" stroke="#263630"/>
-<circle cx="25" cy="24" r="4" fill="#C8F169"/>
-<text x="39" y="28" fill="#91A197" font-family="Consolas,monospace" font-size="11" letter-spacing="1.2">01 / PROTOCOL</text>
-<text x="22" y="82" fill="#ECF3E9" font-family="Arial,sans-serif" font-size="26" font-weight="700">PREMiSE</text>
-<text x="22" y="113" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">Keep decisions coherent</text>
-<text x="22" y="135" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">as their sources change.</text>
-<path d="M22 163H242" stroke="#263630"/>
-<text x="22" y="190" fill="#91A197" font-family="Consolas,monospace" font-size="10" letter-spacing=".8">TYPESCRIPT / MUTABLE STATE</text>
-<g transform="translate(267 54)"><rect x="23" y="0" width="112" height="31" rx="7" fill="#111B18" stroke="#40564B"/>
-<text x="79" y="20" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="11">SOURCE</text>
-<path d="M79 31V48" stroke="#67D7C4" stroke-width="2"/><path d="m74 44 5 5 5-5" fill="none" stroke="#67D7C4" stroke-width="2"/>
-<rect x="23" y="50" width="112" height="31" rx="7" fill="#111B18" stroke="#40564B"/>
-<text x="79" y="70" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="11">EVIDENCE</text>
-<path d="M79 81V98" stroke="#67D7C4" stroke-width="2"/><path d="m74 94 5 5 5-5" fill="none" stroke="#67D7C4" stroke-width="2"/>
-<rect x="23" y="100" width="112" height="31" rx="7" fill="#111B18" stroke="#C8F169"/>
-<text x="79" y="120" text-anchor="middle" fill="#C8F169" font-family="Consolas,monospace" font-size="11">GUARD</text>
-<text x="23" y="154" fill="#C8F169" font-family="Consolas,monospace" font-size="10">FRESH -> ACT</text>
-<text x="23" y="172" fill="#F3A36F" font-family="Consolas,monospace" font-size="10">STALE -> RECHECK</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="A monochrome coastal landscape at night, a lighthouse watches a shifting tide beneath a bright moon.">
+<defs><linearGradient id="sky" y2="1"><stop stop-color="#171717"/><stop offset="1" stop-color="#090909"/></linearGradient><radialGradient id="moon"><stop stop-color="#F5F0E7" stop-opacity=".96"/><stop offset=".38" stop-color="#D4C9B5" stop-opacity=".5"/><stop offset="1" stop-color="#A48E6E" stop-opacity="0"/></radialGradient><linearGradient id="sea" y2="1"><stop stop-color="#56514A"/><stop offset="1" stop-color="#141414"/></linearGradient></defs>
+<rect width="1200" height="520" fill="url(#sky)"/><circle cx="886" cy="142" r="185" fill="url(#moon)"/><circle cx="886" cy="142" r="43" fill="#E7E0D3"/><circle cx="886" cy="142" r="36" fill="#C9C1B4"/>
+<g fill="#D9D3C8" opacity=".42"><circle cx="110" cy="86" r="1.5"/><circle cx="245" cy="158" r="1"/><circle cx="368" cy="69" r="1.3"/><circle cx="508" cy="126" r="1"/><circle cx="1070" cy="96" r="1.5"/><circle cx="1014" cy="202" r="1"/></g>
+<path d="M0 332Q138 281 259 314T520 294Q682 281 815 326T1200 286V520H0Z" fill="#343434"/><path d="M0 365Q186 318 340 350T654 326Q838 309 1009 361T1200 331V520H0Z" fill="#1F1F1F"/>
+<path d="M0 392Q178 362 347 384T676 373Q840 358 1010 390T1200 367V520H0Z" fill="url(#sea)"/>
+<path d="M0 418Q184 397 324 414T609 405M0 451Q220 431 398 448M666 432Q866 410 1054 434T1200 427M770 473Q961 452 1200 468" fill="none" stroke="#B9B2A7" stroke-opacity=".36" stroke-width="2"/>
+<path d="M141 358L174 167H226L261 358Z" fill="#C9C5BD"/><path d="M163 231H239L230 280H172Z" fill="#77736D"/><path d="M157 197H245L230 167H173Z" fill="#E6E1D8"/><path d="M170 159L200 129L231 159Z" fill="#A7A29A"/><rect x="169" y="125" width="63" height="10" fill="#F1EEE8"/><path d="M200 128L514 255L200 150Z" fill="#C7AC78" opacity=".19"/><path d="M178 300H224" stroke="#EFEAE1" stroke-width="4" opacity=".62"/>
+<path d="M61 364Q122 347 155 359M243 370Q305 348 358 359M901 370Q969 347 1044 365" fill="none" stroke="#77726A" stroke-width="2" opacity=".65"/>
+<path d="M0 493H1200" stroke="#E2DED6" stroke-opacity=".18"/><text x="56" y="482" fill="#A7A39A" font-family="Consolas,monospace" font-size="11" letter-spacing="2">THE SOURCE KEEPS MOVING</text>
 </svg>

@@ -1,18 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="236" viewBox="0 0 420 236" role="img" aria-label="SkillProof: controlled Agent Skill evaluation with reproducible evidence for quality, regressions, tokens, cost, and latency.">
-<rect x="1" y="1" width="418" height="234" rx="14" fill="#0B1210" stroke="#2A3933" stroke-width="2"/>
-<path d="M20 44H400" stroke="#263630"/>
-<circle cx="25" cy="24" r="4" fill="#C8F169"/>
-<text x="39" y="28" fill="#91A197" font-family="Consolas,monospace" font-size="11" letter-spacing="1.2">02 / EVALUATION</text>
-<text x="22" y="82" fill="#ECF3E9" font-family="Arial,sans-serif" font-size="26" font-weight="700">SkillProof</text>
-<text x="22" y="113" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">Measure whether a skill</text>
-<text x="22" y="135" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">actually changes the result.</text>
-<path d="M22 163H242" stroke="#263630"/>
-<text x="22" y="190" fill="#91A197" font-family="Consolas,monospace" font-size="10" letter-spacing=".8">NODE.JS / EVIDENCE</text>
-<g transform="translate(267 54)"><text x="0" y="16" fill="#91A197" font-family="Consolas,monospace" font-size="10">SAME TASK</text>
-<rect x="0" y="26" width="76" height="25" rx="6" fill="#111B18" stroke="#40564B"/><text x="38" y="43" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">BASELINE</text>
-<rect x="0" y="62" width="76" height="25" rx="6" fill="#111B18" stroke="#40564B"/><text x="38" y="79" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">AUTO</text>
-<rect x="0" y="98" width="76" height="25" rx="6" fill="#111B18" stroke="#40564B"/><text x="38" y="115" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">FORCED</text>
-<path d="M76 38H96V75M76 74H96M76 110H96V75H107" fill="none" stroke="#67D7C4" stroke-width="2"/>
-<rect x="107" y="58" width="50" height="35" rx="7" fill="#17231E" stroke="#C8F169"/><text x="132" y="80" text-anchor="middle" fill="#C8F169" font-family="Consolas,monospace" font-size="9">COMPARE</text>
-<text x="0" y="150" fill="#91A197" font-family="Consolas,monospace" font-size="9">QUALITY / COST / LATENCY</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="A sculptural classical temple and marble bust with an olive laurel, inspired by ancient Greek evidence and craft.">
+<defs><linearGradient id="bg" y2="1"><stop stop-color="#101113"/><stop offset="1" stop-color="#080808"/></linearGradient><linearGradient id="stone" x2="1" y2="1"><stop stop-color="#F0E2C8"/><stop offset=".55" stop-color="#B7A585"/><stop offset="1" stop-color="#574F43"/></linearGradient><radialGradient id="sun"><stop stop-color="#D9B673" stop-opacity=".58"/><stop offset="1" stop-color="#D9B673" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="520" fill="url(#bg)"/><circle cx="879" cy="208" r="269" fill="url(#sun)"/><circle cx="879" cy="208" r="143" fill="none" stroke="#BDA476" stroke-opacity=".55" stroke-width="2"/><circle cx="879" cy="208" r="158" fill="none" stroke="#BDA476" stroke-opacity=".22"/>
+<path d="M75 405H736L687 360H124Z" fill="#3D3932"/><path d="M110 360H702L666 321H146Z" fill="#60584B"/><path d="M165 312H646L610 277H199Z" fill="#8A7C66"/>
+<path d="M163 272L407 151L650 272Z" fill="url(#stone)"/><path d="M194 262L407 165L621 262Z" fill="#252421"/><path d="M189 273H628V295H189Z" fill="#C8B796"/>
+<g fill="url(#stone)"><path d="M218 292H264V348H218Z"/><path d="M302 292H348V348H302Z"/><path d="M385 292H431V348H385Z"/><path d="M468 292H514V348H468Z"/><path d="M551 292H597V348H551Z"/></g>
+<g fill="none" stroke="#655D50" stroke-width="3" opacity=".75"><path d="M229 300V341M242 300V341M253 300V341M313 300V341M326 300V341M337 300V341M396 300V341M409 300V341M420 300V341M479 300V341M492 300V341M503 300V341M562 300V341M575 300V341M586 300V341"/></g>
+<path d="M142 350H674V366H142Z" fill="#D3C4A7"/><path d="M110 367H709V383H110Z" fill="#93866E"/>
+<g transform="translate(810 136)"><path d="M77 243V212Q27 188 31 124Q33 78 76 60Q119 42 153 71Q178 94 167 140Q160 187 120 211V243Z" fill="url(#stone)"/><path d="M63 113Q69 79 98 76Q128 75 139 102L130 122L118 131L119 148L105 156L99 179L76 174L69 145Z" fill="#6F6657"/><path d="M68 243H135L158 302H44Z" fill="#8D806B"/><path d="M41 306H161V325H41Z" fill="#D8C7A7"/><path d="M18 126Q-1 90 20 61M31 91Q10 43 37 24M154 87Q183 48 164 22M166 117Q195 84 181 57" fill="none" stroke="#A9A879" stroke-width="5" stroke-linecap="round"/><circle cx="16" cy="56" r="6" fill="#B9B991"/><circle cx="36" cy="19" r="6" fill="#B9B991"/><circle cx="165" cy="18" r="6" fill="#B9B991"/><circle cx="184" cy="53" r="6" fill="#B9B991"/></g>
+<path d="M760 442H1128" stroke="#BDAD8F" stroke-opacity=".55"/><text x="760" y="472" fill="#B9A987" font-family="Consolas,monospace" font-size="11" letter-spacing="2">THE PROOF OUTLIVES THE CLAIM</text>
 </svg>

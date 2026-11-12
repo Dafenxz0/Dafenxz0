@@ -1,18 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="236" viewBox="0 0 420 236" role="img" aria-label="Statecraft: an agent skill for useful loading, empty, blocked, failed, uncertain, and recovered interface states.">
-<rect x="1" y="1" width="418" height="234" rx="14" fill="#0B1210" stroke="#2A3933" stroke-width="2"/>
-<path d="M20 44H400" stroke="#263630"/>
-<circle cx="25" cy="24" r="4" fill="#C8F169"/>
-<text x="39" y="28" fill="#91A197" font-family="Consolas,monospace" font-size="11" letter-spacing="1.2">03 / INTERFACES</text>
-<text x="22" y="82" fill="#ECF3E9" font-family="Arial,sans-serif" font-size="26" font-weight="700">Statecraft</text>
-<text x="22" y="113" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">Make every reachable UI</text>
-<text x="22" y="135" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">state useful and recoverable.</text>
-<path d="M22 163H242" stroke="#263630"/>
-<text x="22" y="190" fill="#91A197" font-family="Consolas,monospace" font-size="10" letter-spacing=".8">AGENT SKILL / RESILIENCE</text>
-<g transform="translate(267 54)"><rect x="34" y="0" width="102" height="29" rx="7" fill="#111B18" stroke="#C8F169"/><text x="85" y="19" text-anchor="middle" fill="#C8F169" font-family="Consolas,monospace" font-size="10">PENDING</text>
-<path d="M85 29V45M85 45H26V59M85 45V59M85 45H144V59" fill="none" stroke="#67D7C4" stroke-width="2"/>
-<rect x="0" y="60" width="54" height="27" rx="6" fill="#111B18" stroke="#40564B"/><text x="27" y="78" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">READY</text>
-<rect x="58" y="60" width="54" height="27" rx="6" fill="#111B18" stroke="#40564B"/><text x="85" y="78" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">EMPTY</text>
-<rect x="116" y="60" width="54" height="27" rx="6" fill="#111B18" stroke="#F3A36F"/><text x="143" y="78" text-anchor="middle" fill="#F3A36F" font-family="Consolas,monospace" font-size="9">FAILED</text>
-<path d="M143 87V108H111" fill="none" stroke="#F3A36F" stroke-width="2"/><path d="m116 103-5 5 5 5" fill="none" stroke="#F3A36F" stroke-width="2"/>
-<text x="0" y="128" fill="#67D7C4" font-family="Consolas,monospace" font-size="10">RECOVER -> READY</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="A monumental architectural hall with many quiet doorways and one warmly lit open passage, a metaphor for recoverable paths.">
+<defs><linearGradient id="space" y2="1"><stop stop-color="#111214"/><stop offset="1" stop-color="#090909"/></linearGradient><linearGradient id="hall" x2="1"><stop stop-color="#27292C"/><stop offset=".55" stop-color="#575A5D"/><stop offset="1" stop-color="#1B1C1D"/></linearGradient><radialGradient id="light"><stop stop-color="#E8C792" stop-opacity=".82"/><stop offset="1" stop-color="#C39555" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="520" fill="url(#space)"/><path d="M140 416L430 134H770L1060 416V520H140Z" fill="url(#hall)"/><path d="M0 520L393 344H807L1200 520Z" fill="#18191A"/><path d="M168 416L435 161M1032 416L765 161" stroke="#A4A5A5" stroke-opacity=".24" stroke-width="3"/>
+<path d="M216 384V273Q216 226 265 226Q314 226 314 273V384Z" fill="#111213" stroke="#8B8D8F" stroke-width="3"/><path d="M380 348V236Q380 185 430 185Q480 185 480 236V348Z" fill="#111213" stroke="#9C9D9E" stroke-width="3"/><path d="M718 348V236Q718 185 768 185Q818 185 818 236V348Z" fill="#111213" stroke="#9C9D9E" stroke-width="3"/>
+<circle cx="600" cy="311" r="216" fill="url(#light)"/><path d="M521 416V205Q521 111 600 111Q679 111 679 205V416Z" fill="#D8C8AB"/><path d="M545 416V209Q545 137 600 137Q655 137 655 209V416Z" fill="#9C8970"/><path d="M568 416V213Q568 164 600 164Q632 164 632 213V416Z" fill="#E9D3AD"/><path d="M600 199V416" stroke="#F4E2C3" stroke-width="3" opacity=".65"/>
+<path d="M140 418H1060M240 459H960M364 496H836" stroke="#B7B9BA" stroke-opacity=".25"/><path d="M500 416L600 520L700 416" fill="#C39D6C" opacity=".17"/>
+<g fill="#B4B5B6" opacity=".35"><circle cx="322" cy="397" r="3"/><circle cx="875" cy="373" r="2"/><circle cx="468" cy="427" r="2"/><circle cx="761" cy="449" r="3"/></g>
 </svg>
