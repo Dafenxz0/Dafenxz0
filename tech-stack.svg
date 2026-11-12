@@ -93,35 +93,35 @@
 <text x="1076" y="255" fill="#8A8A8A" font-family="Consolas,monospace" font-size="11" font-weight="700">UI</text>
 <text x="1108" y="255" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">Open WebUI</text>
 </g>
-<text x="70" y="300" fill="#929292" font-family="Consolas,monospace" font-size="10" letter-spacing="1.7">FOCUS</text>
+<text x="70" y="300" fill="#929292" font-family="Consolas,monospace" font-size="10" letter-spacing="1.7">AI / MODEL WORK</text>
 <g>
 <rect x="122" y="312" width="220" height="46" rx="7" fill="none" stroke="#505050"/>
-<path d="M130 319v32" stroke="#E8E8E8" stroke-width="2" opacity=".8"/>
-<text x="140" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="11" font-weight="700">AI</text>
-<text x="172" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">Artificial Intelligence</text>
+<path d="M130 319v32" stroke="#615CED" stroke-width="2" opacity=".8"/>
+<svg x="140" y="325" width="20" height="20" viewBox="0 0 24 24"><path d="M23.919 14.545 20.817 9.17l1.47-2.544a.56.56 0 0 0 0-.566l-1.633-2.83a.57.57 0 0 0-.49-.283h-6.207L12.487.402a.57.57 0 0 0-.49-.284H8.732a.56.56 0 0 0-.49.284L5.139 5.775h-2.94a.56.56 0 0 0-.49.284L.077 8.887a.56.56 0 0 0 0 .567L3.18 14.83l-1.47 2.545a.56.56 0 0 0 0 .566l1.634 2.83a.57.57 0 0 0 .49.283h6.205l1.47 2.545a.57.57 0 0 0 .49.284h3.266a.57.57 0 0 0 .49-.284l3.104-5.375h2.94a.57.57 0 0 0 .49-.283l1.634-2.828a.55.55 0 0 0-.004-.568M8.733.686l1.634 2.828-1.634 2.828H21.8L20.164 9.17H7.425L5.63 6.06Zm1.306 19.801-6.205-.002 1.634-2.83h3.265L2.201 6.344h3.267q3.182 5.517 6.367 11.032zm10.124-5.66L18.53 12l-6.532 11.315-1.634-2.83c2.129-3.673 4.25-7.351 6.373-11.028h3.592l3.102 5.374z" fill="#615CED"/></svg>
+<text x="172" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">Qwen</text>
 </g>
 <g>
 <rect x="356" y="312" width="220" height="46" rx="7" fill="none" stroke="#505050"/>
-<path d="M364 319v32" stroke="#D8D8D8" stroke-width="2" opacity=".8"/>
-<text x="374" y="341" fill="#D8D8D8" font-family="Consolas,monospace" font-size="11" font-weight="700">LL</text>
-<text x="406" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">LLMs</text>
+<path d="M364 319v32" stroke="#EE4C2C" stroke-width="2" opacity=".8"/>
+<svg x="374" y="325" width="20" height="20" viewBox="0 0 24 24"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z" fill="#EE4C2C"/></svg>
+<text x="406" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">PyTorch</text>
 </g>
 <g>
 <rect x="590" y="312" width="220" height="46" rx="7" fill="none" stroke="#505050"/>
-<path d="M598 319v32" stroke="#C8C8C8" stroke-width="2" opacity=".8"/>
-<text x="608" y="341" fill="#C8C8C8" font-family="Consolas,monospace" font-size="11" font-weight="700">AG</text>
-<text x="640" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">Agent Systems</text>
+<path d="M598 319v32" stroke="#5C3EE8" stroke-width="2" opacity=".8"/>
+<svg x="608" y="325" width="20" height="20" viewBox="0 0 24 24"><path d="M11.8992.8525C8.735.8525 6.17 3.4175 6.17 6.5817c0 2.102 1.1321 3.9398 2.8198 4.9366l1.6412-2.7849c.0411-.0699.0176-.1593-.0495-.2048-.6233-.4227-1.0328-1.137-1.0328-1.947 0-1.298 1.0524-2.3504 2.3505-2.3504 1.2981 0 2.3505 1.0524 2.3505 2.3505 0 .8098-.4095 1.5242-1.0328 1.947-.0671.0454-.0907.1348-.0495.2047l1.6414 2.785c1.6878-.9969 2.8199-2.8346 2.8199-4.9367 0-3.1642-2.5653-5.7292-5.7295-5.7292zm-6.17 10.8366C2.565 11.6891 0 14.2541 0 17.4183c0 3.1642 2.565 5.7292 5.7292 5.7292 3.1798 0 5.8074-2.6995 5.7275-5.8762H8.2313c-.0847 0-.1513.0717-.1519.1564-.0082 1.266-1.0644 2.3411-2.3502 2.3411-1.2981 0-2.3505-1.0524-2.3505-2.3505 0-1.2982 1.0524-2.3505 2.3505-2.3505.34 0 .663.0724.9547.2022.0713.0318.1566.0077.1962-.0595l1.6464-2.7935c-.8273-.4636-1.7815-.7279-2.7973-.7279zm15.4424.7614l-1.6366 2.7878c-.041.07-.0172.1594.05.2048.624.4217 1.0348 1.1354 1.0363 1.9452.0022 1.298-1.0483 2.352-2.3465 2.3542-1.298.0023-2.3523-1.0482-2.3545-2.3462-.0015-.8098.4068-1.5248 1.0294-1.9486.067-.0457.0905-.1353.0492-.2051l-1.6464-2.7818c-1.6859.9998-2.8146 2.8394-2.811 4.9415.0056 3.1641 2.575 5.7248 5.7393 5.7192 3.1641-.0054 5.7246-2.575 5.7192-5.7392-.0037-2.1022-1.139-3.938-2.8284-4.9318z" fill="#5C3EE8"/></svg>
+<text x="640" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">OpenCV</text>
 </g>
 <g>
 <rect x="824" y="312" width="220" height="46" rx="7" fill="none" stroke="#505050"/>
-<path d="M832 319v32" stroke="#B8B8B8" stroke-width="2" opacity=".8"/>
-<text x="842" y="341" fill="#B8B8B8" font-family="Consolas,monospace" font-size="11" font-weight="700">ML</text>
-<text x="874" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">Machine Learning</text>
+<path d="M832 319v32" stroke="#D8D8D8" stroke-width="2" opacity=".8"/>
+<text x="842" y="341" fill="#D8D8D8" font-family="Consolas,monospace" font-size="11" font-weight="700">LL</text>
+<text x="874" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">LLMs</text>
 </g>
 <g>
 <rect x="1058" y="312" width="220" height="46" rx="7" fill="none" stroke="#505050"/>
-<path d="M1066 319v32" stroke="#A8A8A8" stroke-width="2" opacity=".8"/>
-<text x="1076" y="341" fill="#A8A8A8" font-family="Consolas,monospace" font-size="11" font-weight="700">RL</text>
+<path d="M1066 319v32" stroke="#B8B8B8" stroke-width="2" opacity=".8"/>
+<text x="1076" y="341" fill="#B8B8B8" font-family="Consolas,monospace" font-size="11" font-weight="700">RL</text>
 <text x="1108" y="341" fill="#E8E8E8" font-family="Consolas,monospace" font-size="13">Reinforcement Learning</text>
 </g>
 </svg>
