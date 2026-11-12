@@ -1,31 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-label="SkillProof">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ec4899"/>
-      <stop offset="100%" stop-color="#f97316"/>
-    </linearGradient>
-    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity=".18"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity=".03"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="720" height="260" rx="26" fill="#0d1117"/>
-  <rect x="2" y="2" width="716" height="256" rx="24" fill="url(#glass)" stroke="#ec4899" stroke-opacity=".65"/>
-  <rect x="0" y="0" width="10" height="260" rx="5" fill="url(#bg)"/>
-
-  <circle cx="626" cy="56" r="74" fill="#ec4899" opacity=".13"/>
-  <circle cx="655" cy="31" r="38" fill="#f97316" opacity=".16"/>
-
-  <text x="42" y="62" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="900">SkillProof</text>
-  <text x="42" y="103" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Benchmark whether an Agent Skill genuinely improves the result.</text>
-
-  <rect x="42" y="132" width="150" height="34" rx="17" fill="#ec4899" fill-opacity=".18" stroke="#ec4899" stroke-opacity=".6"/>
-  <circle cx="63" cy="149" r="6" fill="#ec4899"/>
-  <text x="78" y="155" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">HTML / Node.js</text>
-
-  <rect x="42" y="190" width="390" height="38" rx="19" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
-  <text x="61" y="215" fill="#dbeafe" font-family="JetBrains Mono,Consolas,monospace" font-size="15">github.com/Dafenxz0/skillproof ↗</text>
-
-  <text x="636" y="170" text-anchor="middle" fill="#ec4899" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="60" font-weight="900">S</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="236" viewBox="0 0 420 236" role="img" aria-label="SkillProof: controlled Agent Skill evaluation with reproducible evidence for quality, regressions, tokens, cost, and latency.">
+<rect x="1" y="1" width="418" height="234" rx="14" fill="#0B1210" stroke="#2A3933" stroke-width="2"/>
+<path d="M20 44H400" stroke="#263630"/>
+<circle cx="25" cy="24" r="4" fill="#C8F169"/>
+<text x="39" y="28" fill="#91A197" font-family="Consolas,monospace" font-size="11" letter-spacing="1.2">02 / EVALUATION</text>
+<text x="22" y="82" fill="#ECF3E9" font-family="Arial,sans-serif" font-size="26" font-weight="700">SkillProof</text>
+<text x="22" y="113" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">Measure whether a skill</text>
+<text x="22" y="135" fill="#C9D4CC" font-family="Arial,sans-serif" font-size="15">actually changes the result.</text>
+<path d="M22 163H242" stroke="#263630"/>
+<text x="22" y="190" fill="#91A197" font-family="Consolas,monospace" font-size="10" letter-spacing=".8">NODE.JS / EVIDENCE</text>
+<g transform="translate(267 54)"><text x="0" y="16" fill="#91A197" font-family="Consolas,monospace" font-size="10">SAME TASK</text>
+<rect x="0" y="26" width="76" height="25" rx="6" fill="#111B18" stroke="#40564B"/><text x="38" y="43" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">BASELINE</text>
+<rect x="0" y="62" width="76" height="25" rx="6" fill="#111B18" stroke="#40564B"/><text x="38" y="79" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">AUTO</text>
+<rect x="0" y="98" width="76" height="25" rx="6" fill="#111B18" stroke="#40564B"/><text x="38" y="115" text-anchor="middle" fill="#ECF3E9" font-family="Consolas,monospace" font-size="9">FORCED</text>
+<path d="M76 38H96V75M76 74H96M76 110H96V75H107" fill="none" stroke="#67D7C4" stroke-width="2"/>
+<rect x="107" y="58" width="50" height="35" rx="7" fill="#17231E" stroke="#C8F169"/><text x="132" y="80" text-anchor="middle" fill="#C8F169" font-family="Consolas,monospace" font-size="9">COMPARE</text>
+<text x="0" y="150" fill="#91A197" font-family="Consolas,monospace" font-size="9">QUALITY / COST / LATENCY</text></g>
 </svg>
