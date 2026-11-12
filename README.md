@@ -4,30 +4,30 @@
 
 ## Selected work
 
-<table border="0" cellpadding="12" cellspacing="10" width="100%">
+<table border="0" cellpadding="12" cellspacing="18" width="100%">
   <tbody>
     <tr>
       <td width="50%" valign="top" bgcolor="#0D0D0D">
         <a href="https://github.com/Dafenxz0/premise-protocol"><img src="./project-premise.jpg" width="100%" alt="A lighthouse on a dark shoreline at night, a beacon over the moving sea." /></a>
         <p><strong><a href="https://github.com/Dafenxz0/premise-protocol">PREMiSE</a></strong><br />An evidence-aware protocol that blocks stale agent actions.</p>
-        <p><code>TypeScript</code> <code>Node.js</code> <code>Agents</code></p>
+        <p><img src="https://img.shields.io/static/v1?label=TypeScript&amp;message=%20&amp;color=white&amp;labelColor=white&amp;logo=typescript&amp;logoColor=black&amp;style=flat-square" alt="TypeScript" height="22" /> <img src="https://img.shields.io/static/v1?label=Node.js&amp;message=%20&amp;color=white&amp;labelColor=white&amp;logo=nodedotjs&amp;logoColor=black&amp;style=flat-square" alt="Node.js" height="22" /> <img src="https://img.shields.io/static/v1?label=Agents&amp;message=%20&amp;color=white&amp;labelColor=white&amp;style=flat-square" alt="Agent systems" height="22" /></p>
       </td>
       <td width="50%" valign="top" bgcolor="#0D0D0D">
         <a href="https://github.com/Dafenxz0/Cluster"><img src="./project-cluster.jpg" width="100%" alt="An aisle of metal equipment racks in a server room." /></a>
         <p><strong><a href="https://github.com/Dafenxz0/Cluster">CPU-Only LLM Cluster</a></strong><br />Distributed inference across commodity PCs, without discrete GPUs.</p>
-        <p><code>Python</code> <code>Ray</code> <code>llama.cpp</code></p>
+        <p><img src="https://img.shields.io/static/v1?label=Python&amp;message=%20&amp;color=white&amp;labelColor=white&amp;logo=python&amp;logoColor=black&amp;style=flat-square" alt="Python" height="22" /> <img src="https://img.shields.io/static/v1?label=Ray&amp;message=%20&amp;color=white&amp;labelColor=white&amp;logo=ray&amp;logoColor=black&amp;style=flat-square" alt="Ray" height="22" /> <img src="https://img.shields.io/static/v1?label=llama.cpp&amp;message=%20&amp;color=white&amp;labelColor=white&amp;style=flat-square" alt="llama.cpp" height="22" /></p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top" bgcolor="#0D0D0D">
         <a href="https://github.com/Dafenxz0/skillproof"><img src="./project-skillproof.jpg" width="100%" alt="A close-up photograph of a classical Greek marble bust of Alexander the Great." /></a>
         <p><strong><a href="https://github.com/Dafenxz0/skillproof">SkillProof</a></strong><br />Compare agent skill runs across quality, regressions, cost and latency.</p>
-        <p><code>Node.js</code> <code>Agent Skills</code> <code>Evaluation</code></p>
+        <p><img src="https://img.shields.io/static/v1?label=Node.js&amp;message=%20&amp;color=white&amp;labelColor=white&amp;logo=nodedotjs&amp;logoColor=black&amp;style=flat-square" alt="Node.js" height="22" /> <img src="https://img.shields.io/static/v1?label=Agent%20Skills&amp;message=%20&amp;color=white&amp;labelColor=white&amp;style=flat-square" alt="Agent Skills" height="22" /> <img src="https://img.shields.io/static/v1?label=Evaluation&amp;message=%20&amp;color=white&amp;labelColor=white&amp;style=flat-square" alt="Evaluation" height="22" /></p>
       </td>
       <td width="50%" valign="top" bgcolor="#0D0D0D">
         <a href="https://github.com/Dafenxz0/statecraft-skill"><img src="./project-statecraft.jpg" width="100%" alt="Ancient Greek stone columns and a weathered temple ceiling." /></a>
         <p><strong><a href="https://github.com/Dafenxz0/statecraft-skill">Statecraft</a></strong><br />Design agent interfaces that recover from uncertain states.</p>
-        <p><code>Agent Skills</code> <code>UI engineering</code> <code>Recovery</code></p>
+        <p><img src="https://img.shields.io/static/v1?label=Agent%20Skills&amp;message=%20&amp;color=white&amp;labelColor=white&amp;style=flat-square" alt="Agent Skills" height="22" /> <img src="https://img.shields.io/static/v1?label=UI%20engineering&amp;message=%20&amp;color=white&amp;labelColor=white&amp;style=flat-square" alt="UI engineering" height="22" /> <img src="https://img.shields.io/static/v1?label=Recovery&amp;message=%20&amp;color=white&amp;labelColor=white&amp;style=flat-square" alt="Recovery" height="22" /></p>
       </td>
     </tr>
   </tbody>
@@ -40,7 +40,7 @@
 ## Stack
 
 <p align="center">
-  <img src="./tech-stack.svg" width="100%" alt="TypeScript, Node.js, Python, C++, C sharp, Ray, FastAPI, llama.cpp, Docker, Linux, Vulkan, MCP, GitHub Actions, Ubuntu, Open WebUI, Qwen, PyTorch, OpenCV, LLMs, agent systems and reinforcement learning." />
+  <img src="./tech-stack.svg" width="100%" alt="TypeScript, JavaScript, Node.js, Python, C++, C sharp, Qwen, PyTorch, OpenCV, OpenCLIP, LLMs, reinforcement learning, Ray, llama.cpp, FastAPI, Uvicorn, HTTPX, Open WebUI, Docker, Linux, Ubuntu, Vulkan, CPU-only inference, MCP, GitHub Actions, Vite and agent skills." />
 </p>
 
 ## Contributions
@@ -57,3 +57,7 @@
 </p>
 
 <p align="center"><sub>Photography: <a href="https://unsplash.com/photos/a-lighthouse-on-a-beach-8BKJMHIaEaM">Evgeni Tcherkasski</a>, <a href="https://unsplash.com/photos/a-marble-bust-of-a-man-with-curly-hair-GlkROV0KsmE">Alex Sanzio</a>, <a href="https://unsplash.com/photos/ancient-stone-doorway-framed-by-large-columns-ki7Sf9p0Hrc">Melissa Holowaty</a> and <a href="https://unsplash.com/photos/a-rack-of-servers-in-a-server-room-2JJ3wBHu4_0">Kevin Ache</a> via Unsplash.</sub></p>
+
+<p align="center">
+  <img src="./matrix-footer.gif" width="100%" alt="Code-generated Matrix green ASCII liquid wave made from flowing digits and symbols in a terminal footer." />
+</p>
