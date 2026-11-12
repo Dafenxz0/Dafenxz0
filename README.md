@@ -56,8 +56,6 @@
   <a href="https://github.com/KytyPS5/KytyPS5/pull/24"><code>KytyPS5 #24 · CTest</code></a>
 </p>
 
-<p align="center"><sub>Photography: <a href="https://unsplash.com/photos/a-lighthouse-on-a-beach-8BKJMHIaEaM">Evgeni Tcherkasski</a>, <a href="https://unsplash.com/photos/a-marble-bust-of-a-man-with-curly-hair-GlkROV0KsmE">Alex Sanzio</a>, <a href="https://unsplash.com/photos/ancient-stone-doorway-framed-by-large-columns-ki7Sf9p0Hrc">Melissa Holowaty</a> and <a href="https://unsplash.com/photos/a-rack-of-servers-in-a-server-room-2JJ3wBHu4_0">Kevin Ache</a> via Unsplash.</sub></p>
-
 <p align="center">
   <img src="./matrix-footer.gif" width="100%" alt="Code-generated Matrix green ASCII liquid wave made from flowing digits and symbols in a terminal footer." />
 </p>
